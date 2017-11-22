@@ -4,11 +4,12 @@ public class Vehcile1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a,b,c;
+		int a,b,c,d;
 a = 12;
 b =13;
-c = a + b;
-System.out.println("Sum of entered integers = "+c);
+c = 14;
+d = a + b +c;
+System.out.println("Sum of entered integers = "+d);
 	}
 
 }
